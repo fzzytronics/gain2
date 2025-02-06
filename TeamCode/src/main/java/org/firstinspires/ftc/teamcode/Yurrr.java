@@ -25,5 +25,6 @@ public class Yurrr extends LinearOpMode {
 //TODO: make sure that we can do stuff between trajs
         waitForStart();
         drive.followTrajectory(traj1);
+        //THE GREAT RESET IS UPON US
     }
 }
